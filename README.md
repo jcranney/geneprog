@@ -19,7 +19,7 @@ pip install maturin
 ```
 
 ## Usage
-For an example of how to use this package, see [example.py](https://github.com/jcranney/geneprog/example.py). To check that everything install properly, you can simply do:
+For an example of how to use this package, see [example.py](https://github.com/jcranney/geneprog/blob/main/example.py). To check that everything install properly, you can simply do:
 ```python
 >>> import geneprog
 >>> tree = geneprog.random_tree(2)  # spawn a tree with max depth = 2
